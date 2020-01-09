@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "710227071167e5ebd3254270e83f40ac",
+    "revision": "f7f1865ae738044f7b24ffea2b31d24b",
     "url": "/deploy-goalspay-github-pages/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deploy-goalspay-github-pages/static/css/2.6e5d1062.chunk.css"
   },
   {
-    "revision": "d8a89609bd44b174e549",
+    "revision": "8ca5b0c68166153d1adc",
     "url": "/deploy-goalspay-github-pages/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deploy-goalspay-github-pages/static/js/2.eae32dca.chunk.js.LICENSE"
   },
   {
-    "revision": "d8a89609bd44b174e549",
-    "url": "/deploy-goalspay-github-pages/static/js/main.6022cae2.chunk.js"
+    "revision": "8ca5b0c68166153d1adc",
+    "url": "/deploy-goalspay-github-pages/static/js/main.2eae540d.chunk.js"
   },
   {
     "revision": "0d5445ecb6ca7677dcd8",
