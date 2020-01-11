@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/deploy-goalspay-github-pages/precache-manifest.75145cd8ecfa943e26bc8861918a5079.js"
+  "/deploy-goalspay-github-pages/precache-manifest.646f07ebea5165e4eed079b77a90e7be.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7f1865ae738044f7b24ffea2b31d24b",
+    "revision": "c3403d8e3da7fa255947880b15957513",
     "url": "/deploy-goalspay-github-pages/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deploy-goalspay-github-pages/static/css/2.6e5d1062.chunk.css"
   },
   {
-    "revision": "8ca5b0c68166153d1adc",
+    "revision": "0510aabf0af796a3564b",
     "url": "/deploy-goalspay-github-pages/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deploy-goalspay-github-pages/static/js/2.eae32dca.chunk.js.LICENSE"
   },
   {
-    "revision": "8ca5b0c68166153d1adc",
-    "url": "/deploy-goalspay-github-pages/static/js/main.2eae540d.chunk.js"
+    "revision": "0510aabf0af796a3564b",
+    "url": "/deploy-goalspay-github-pages/static/js/main.588c905d.chunk.js"
   },
   {
     "revision": "0d5445ecb6ca7677dcd8",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deploy-goalspay-github-pages/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "5a63f85322962599c67f7845093f9ad0",
-    "url": "/deploy-goalspay-github-pages/static/media/kid-on-ipad.5a63f853.png"
+    "revision": "9627b3daab7376af9223eaec618b79b4",
+    "url": "/deploy-goalspay-github-pages/static/media/goals.9627b3da.jpg"
   }
 ]);
